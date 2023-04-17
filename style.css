@@ -1,6 +1,12 @@
 body{
     background-color: #182A2C;
 }
-h1{
-    color: white;
+
+
+.img-cabeçalho{
+    height: 300px;
+}
+
+.cabeçalho{
+    display: flex;
 }
