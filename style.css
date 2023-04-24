@@ -1,3 +1,6 @@
+
+ 
+
 body{
     background-color: #182A2C;
 }
@@ -9,4 +12,14 @@ body{
 
 .cabeçalho{
     display: flex;
+    justify-content:  space-between; 
+
+
+}
+
+
+.item-cabeçalho{
+    display:  inline-block;
+    margin:  20px;
+    font-size:  25px;
 }
